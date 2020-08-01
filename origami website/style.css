@@ -1,0 +1,29 @@
+h1{color: aquamarine;}
+
+.header{
+    background-color: antiquewhite;
+
+    display: flex;
+
+    justify-content: center;
+}
+
+.site-description{
+    background-color: antiquewhite;
+
+    display: flex;
+    
+    flex-wrap: wrap;
+
+    justify-content: center;
+}
+
+.grid{
+    background-color: rgba(250, 235, 215, 0.678);
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+}
